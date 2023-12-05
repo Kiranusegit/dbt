@@ -1,1 +1,1 @@
-Test file
+select current_date
